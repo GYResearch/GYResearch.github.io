@@ -22,7 +22,7 @@ body {
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-	text-align: center;
+	text-align: left;
 	vertical-align: top;
 }
 
@@ -37,7 +37,7 @@ body {
 	padding-right: 1.0em;
 	border: none;
 	background: white;
-	text-align: center;
+	text-align: left;
 	vertical-align: top;
 }
 
